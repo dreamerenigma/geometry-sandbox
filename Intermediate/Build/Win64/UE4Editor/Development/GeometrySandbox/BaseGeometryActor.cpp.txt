@@ -1,0 +1,3 @@
+D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\Definitions.GeometrySandbox.h
+D:\MyProject\ProjectsUE4\GeometrySandbox\Source\GeometrySandbox\Public\BaseGeometryActor.h
+D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\GeometrySandbox\BaseGeometryActor.generated.h

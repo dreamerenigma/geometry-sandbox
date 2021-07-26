@@ -1,0 +1,9 @@
+D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\Definitions.GeometrySandbox.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\MyProject\ProjectsUE4\GeometrySandbox\Source\GeometrySandbox/GeometrySandboxGameModeBase.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\GeometrySandbox\GeometrySandboxGameModeBase.generated.h

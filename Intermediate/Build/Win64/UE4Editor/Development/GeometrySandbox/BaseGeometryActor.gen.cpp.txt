@@ -1,0 +1,5 @@
+D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\Definitions.GeometrySandbox.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\MyProject\UnrealEngine4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\MyProject\ProjectsUE4\GeometrySandbox\Source\GeometrySandbox/Public/BaseGeometryActor.h
+D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\GeometrySandbox\BaseGeometryActor.generated.h

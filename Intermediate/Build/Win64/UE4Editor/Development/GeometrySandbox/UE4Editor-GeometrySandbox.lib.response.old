@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GeometrySandbox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\GeometrySandboxEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandbox.cpp.obj"
+"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandboxGameModeBase.cpp.obj"
+"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandbox.init.gen.cpp.obj"
+"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandboxGameModeBase.gen.cpp.obj"
+"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\Default.rc2.res"
+/OUT:"D:\MyProject\ProjectsUE4\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\UE4Editor-GeometrySandbox.lib"
+/INCLUDE:IMPLEMENT_MODULE_GeometrySandbox

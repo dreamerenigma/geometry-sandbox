@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GeometrySandbox.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3751A398-CA04-4971-B0D8-40460A51DEA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GeometrySandbox.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GeometrySandboxEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9CB4B7D3-1D6E-48B8-BBC6-ED833F71A39C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GeometrySandbox">
+      <UniqueIdentifier>{10BBBBF6-FE81-49DA-AC17-92F3369FD587}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GeometrySandbox\GeometrySandbox.Build.cs">
+      <Filter>Source\GeometrySandbox</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GeometrySandbox\GeometrySandbox.cpp">
+      <Filter>Source\GeometrySandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GeometrySandbox\GeometrySandbox.h">
+      <Filter>Source\GeometrySandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GeometrySandbox\GeometrySandboxGameModeBase.cpp">
+      <Filter>Source\GeometrySandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GeometrySandbox\GeometrySandboxGameModeBase.h">
+      <Filter>Source\GeometrySandbox</Filter>
+    </ClInclude>
+    <Filter Include="Source\GeometrySandbox\Private">
+      <UniqueIdentifier>{79BD1025-6CD6-4615-9F24-63C2F865DB80}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GeometrySandbox\Private\BaseGeometryActor.cpp">
+      <Filter>Source\GeometrySandbox\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GeometrySandbox\Public">
+      <UniqueIdentifier>{FA7A8B5B-E510-48EB-AEC2-67CCA3F03AD5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GeometrySandbox\Public\BaseGeometryActor.h">
+      <Filter>Source\GeometrySandbox\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
