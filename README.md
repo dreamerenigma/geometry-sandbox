@@ -1,4 +1,4 @@
-[<p align="center">![Header](https://github.com/InputGames/InputGames/blob/master/Assets/GitLogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+[<p align="center">![Header](https://github.com/InputStudios/InputStudios/blob/master/Assets/logo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
 <details>
   <summary>:camera_flash: Screenshots:</summary>
